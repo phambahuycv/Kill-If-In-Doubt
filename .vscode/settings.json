@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Kill If In Doubt.sln"
+    "dotnet.defaultSolution": "Kill-If-In-Doubt.sln"
 }
